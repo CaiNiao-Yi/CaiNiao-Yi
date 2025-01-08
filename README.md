@@ -13,5 +13,6 @@
 - Learning: Zig, Rust, Erlang, Unreal Engine.  
 
 ### 📈 GitHub Stats  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaiNiao-Yi&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CaiNiao-Yi)  
+![Anurag's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CaiNiao-Yi&theme=vision_friendly_dark)  
+![Top Languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CaiNiao-Yi&theme=vision_friendly_dark)
+![states](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CaiNiao-Yi&theme=vision_friendly_dark)
