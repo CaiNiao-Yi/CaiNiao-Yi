@@ -10,7 +10,7 @@
 
 ### 🛠️ Tech Stack  
 - Familiar: Python, C++, Java.  
-- Learning: Zig, Rust, Erlang, Unreal Engine.  
+- Learning: Zig, Rust, Elixir, Unreal Engine.  
 
 ### 📈 GitHub Stats  
 ![Anurag's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CaiNiao-Yi&theme=vision_friendly_dark)  
